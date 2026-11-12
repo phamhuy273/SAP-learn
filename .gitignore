@@ -1,0 +1,18 @@
+# Exclude other projects & CV
+group7-SAP/
+CV_Pham_Viet_Quang_Huy.pdf
+CV_Pham_Viet_Quang_Huy_SAP.html
+.git_procureflow_backup/
+
+# Compiled Java Bytecode & Build Output
+bin/
+**/bin/
+*.class
+**/*.class
+
+# IDE & OS files
+.vscode/
+.idea/
+*.log
+Thumbs.db
+Desktop.ini
